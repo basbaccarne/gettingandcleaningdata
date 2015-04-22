@@ -1,8 +1,8 @@
-This repo contains the project assignment for the coursera class "getting and cleaning data".
-This assignment converts raw data into a tidy dataset
+This repo contains the project assignment for the coursera class "getting and cleaning data".  
+The assignment converts raw data into a tidy dataset  
 
-Datasource: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Data information: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+Datasource:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Data information:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 Documents in this repo:
 * __run_analysis.R__ contains the R script to convert the raw data into a tidy dataset
